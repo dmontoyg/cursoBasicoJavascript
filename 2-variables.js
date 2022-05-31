@@ -10,6 +10,8 @@ edad
 
 var elementos = ["computador", "celular"];
 
+
+// Variable con varios valores: nombre y edad
 var persona = {
     nombre: "Diego",
     edad: 30
